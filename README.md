@@ -22,7 +22,7 @@ This Python project uses **MediaPipe** and **OpenCV** to recognize specific hand
 
 ```bash
 git clone https://github.com/nishanthi-ds/Gesture-Based-Attendence-System.git
-cd Attendence_gesture
+cd Gesture-Based-Attendence-System
 ```
 
 ### Step 2: Install Dependencies
@@ -37,7 +37,7 @@ pip install opencv-python mediapipe
 Save the Python script as `attendance.py` and run it with the following command:
 
 ```bash
-python attendance.py
+python Attendence_gesture.py
 ```
 
 This will open your webcam, and the system will start recognizing hand gestures. The gestures will be logged along with the timestamp in a CSV file named `attendance_log.csv`.
