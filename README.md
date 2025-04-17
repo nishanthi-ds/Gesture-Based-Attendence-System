@@ -49,8 +49,8 @@ Here are the gestures recognized by the system:
 |--------------|------------------------------------------------|------------------------------------------------|
 | Enter        | All fingers up                                 | Marks the start of attendance.                 |
 | Leave        | All fingers down                               | Marks the end of attendance.                   |
-| Break-In     | All fingers up, thumb close to at least 3 fingers | Marks the start of a break.                    |
-| Break-Out    | Index finger up, other fingers down, thumb close to index | Marks the end of a break.         |
+| Break-In     | Thumb up & other fingers folded                | Marks the start of a break.                    |
+| Break-Out    | Thumb and index finger in touch                | Marks the end of a break.                      |
 
 ### Step 5: Quit the Webcam Feed
 To quit the webcam feed, press the **'q'** key.
